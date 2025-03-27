@@ -1,0 +1,1 @@
+ E:\\KULIAH\\SEMESTER\ 4\\PA2\\lagilagi\\.dart_tool\\flutter_build\\5a968520ff3b45ef11c3bf917331895b\\native_assets.json: 

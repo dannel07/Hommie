@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color green
+drawable launch_background
+mipmap ic_launcher
+mipmap launcher_icon
+mipmap test
+mipmap test1
+style LaunchTheme
+style NormalTheme

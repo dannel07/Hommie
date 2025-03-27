@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.hotel_booking.app-mergeDebugResources-45:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ANISETUS B. MANALU\\.gradle\\caches\\transforms-3\\c208277898a1d49a9511fa7651071d3a\\transformed\\appcompat-1.1.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

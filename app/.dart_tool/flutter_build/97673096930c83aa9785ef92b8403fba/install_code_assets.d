@@ -1,0 +1,1 @@
+ E:\\KULIAH\\SEMESTER\ 4\\PA2\\ProyekAkhir2\\frontend\\.dart_tool\\flutter_build\\97673096930c83aa9785ef92b8403fba\\native_assets.json: 

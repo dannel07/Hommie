@@ -1,0 +1,58 @@
+com.example.hotel_booking.app-jetified-core-1.0.0-0 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\0d62a3ac097fd2d01dbaf979a17e7f7e\transformed\jetified-core-1.0.0\res
+com.example.hotel_booking.app-jetified-savedstate-1.2.1-1 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\11aace9f9f39087992e85122f55e654a\transformed\jetified-savedstate-1.2.1\res
+com.example.hotel_booking.app-slidingpanelayout-1.2.0-2 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\1eecf14c594ab4eb7af5d6d2fc1d73a2\transformed\slidingpanelayout-1.2.0\res
+com.example.hotel_booking.app-jetified-profileinstaller-1.3.1-3 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\23e08b86323fb7f6557d25e4aaf9ed09\transformed\jetified-profileinstaller-1.3.1\res
+com.example.hotel_booking.app-jetified-lifecycle-livedata-core-ktx-2.7.0-4 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\33bb6a338cd7a2d4fc29a7051bb15c97\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.hotel_booking.app-jetified-activity-ktx-1.9.3-5 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\3845cc6f1da5e11829302fa2aa2a36d9\transformed\jetified-activity-ktx-1.9.3\res
+com.example.hotel_booking.app-coordinatorlayout-1.0.0-6 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\3c1f5253e7bd3ff0be5df640e95ea347\transformed\coordinatorlayout-1.0.0\res
+com.example.hotel_booking.app-lifecycle-runtime-2.7.0-7 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\3cbc6a0a65f1b9ddf3b247bc7542d05d\transformed\lifecycle-runtime-2.7.0\res
+com.example.hotel_booking.app-jetified-datastore-preferences-release-8 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\4644bd33bfeddbc7e9f03f260beb68ad\transformed\jetified-datastore-preferences-release\res
+com.example.hotel_booking.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-9 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\509ceeb4ca914a20fa4bb4358cb0665d\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.hotel_booking.app-jetified-lifecycle-runtime-ktx-2.7.0-10 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\55686cf81c12cf4de9d019938b76c14e\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.hotel_booking.app-transition-1.4.1-11 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\5be0394cb0283b0d6066fb978770ac5a\transformed\transition-1.4.1\res
+com.example.hotel_booking.app-jetified-datastore-core-release-12 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\6552f226c3c21ffae34598a2510010c0\transformed\jetified-datastore-core-release\res
+com.example.hotel_booking.app-jetified-annotation-experimental-1.4.1-13 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\6579d2826d5466ac5083dcdb0efb4251\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.hotel_booking.app-preference-1.2.1-14 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\670afc7adee3bd25a9bcefcb1a837775\transformed\preference-1.2.1\res
+com.example.hotel_booking.app-jetified-fragment-ktx-1.7.1-15 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\6ce462aaac6d39e15cc211547c2eece2\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.hotel_booking.app-jetified-datastore-release-16 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\7030290b41d5295ee743414ff548c6f9\transformed\jetified-datastore-release\res
+com.example.hotel_booking.app-lifecycle-livedata-core-2.7.0-17 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\735f922ba45c67c3defcce135dbdc5ca\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.hotel_booking.app-jetified-android-maps-utils-3.6.0-18 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\7af4f0f9bd98dbbe2db134ef7a8f1f20\transformed\jetified-android-maps-utils-3.6.0\res
+com.example.hotel_booking.app-fragment-1.7.1-19 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\7e9194a19f70aa4f7dadaf3ffa3261d0\transformed\fragment-1.7.1\res
+com.example.hotel_booking.app-recyclerview-1.0.0-20 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\7f1d7bf39072a8f35305b50659948b8e\transformed\recyclerview-1.0.0\res
+com.example.hotel_booking.app-jetified-activity-1.9.3-21 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\834ba583d5d96afe9a1d0649d7dd41f2\transformed\jetified-activity-1.9.3\res
+com.example.hotel_booking.app-jetified-play-services-maps-18.2.0-22 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\8f617b26fd8e7d44158a9a0d203e4534\transformed\jetified-play-services-maps-18.2.0\res
+com.example.hotel_booking.app-jetified-window-1.2.0-23 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\a3c7531e3cd40d40937b249244cf3399\transformed\jetified-window-1.2.0\res
+com.example.hotel_booking.app-jetified-play-services-basement-18.1.0-24 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\a4d802cf7d4d69cfa32c201bf2dbcaaa\transformed\jetified-play-services-basement-18.1.0\res
+com.example.hotel_booking.app-webkit-1.12.1-25 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\a4fafed032cadaaed651cdbc134d5695\transformed\webkit-1.12.1\res
+com.example.hotel_booking.app-jetified-core-ktx-1.13.1-26 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\ab79fdb5f89daf9f0e3d3f960dba6614\transformed\jetified-core-ktx-1.13.1\res
+com.example.hotel_booking.app-jetified-appcompat-resources-1.1.0-27 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\aed6dd592383ee11ef6adf4ee927de23\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.hotel_booking.app-appcompat-1.1.0-28 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\c208277898a1d49a9511fa7651071d3a\transformed\appcompat-1.1.0\res
+com.example.hotel_booking.app-lifecycle-livedata-2.7.0-29 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\d479d75d2123b4504ecce59e0c72e80c\transformed\lifecycle-livedata-2.7.0\res
+com.example.hotel_booking.app-browser-1.8.0-30 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\da7e4b6c027f01cca13190929429a067\transformed\browser-1.8.0\res
+com.example.hotel_booking.app-jetified-savedstate-ktx-1.2.1-31 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\dd69d9b38a8564d04f355bede1eb3a92\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.hotel_booking.app-jetified-startup-runtime-1.1.1-32 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\e0e32776ab3118eb2d82454584d3b9f7\transformed\jetified-startup-runtime-1.1.1\res
+com.example.hotel_booking.app-lifecycle-viewmodel-2.7.0-33 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\e34c12be49c161df5da66a3ad7c35478\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.hotel_booking.app-jetified-lifecycle-viewmodel-ktx-2.7.0-34 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\e543404490e713687b1aeb89403cdd96\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.hotel_booking.app-jetified-window-java-1.2.0-35 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\ede213a9aaa64fbb057abe1353f3c340\transformed\jetified-window-java-1.2.0\res
+com.example.hotel_booking.app-jetified-play-services-base-18.1.0-36 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\f8249ef06c428338612803b93ce35d69\transformed\jetified-play-services-base-18.1.0\res
+com.example.hotel_booking.app-jetified-lifecycle-process-2.7.0-37 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\f9be81f84240b41e3b99d23f7579cf22\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.hotel_booking.app-core-1.13.1-38 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\fd93e78bb2c8dc30ac930431cd9731b2\transformed\core-1.13.1\res
+com.example.hotel_booking.app-core-runtime-2.2.0-39 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\fdfdebe35522bd202e60385ae70c3971\transformed\core-runtime-2.2.0\res
+com.example.hotel_booking.app-jetified-tracing-1.2.0-40 C:\Users\ANISETUS B. MANALU\.gradle\caches\transforms-3\fe171ec9433fad4c3d7e78fc6ba122bd\transformed\jetified-tracing-1.2.0\res
+com.example.hotel_booking.app-debug-41 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\android\app\src\debug\res
+com.example.hotel_booking.app-main-42 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\android\app\src\main\res
+com.example.hotel_booking.app-pngs-43 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\app\generated\res\pngs\debug
+com.example.hotel_booking.app-resValues-44 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\app\generated\res\resValues\debug
+com.example.hotel_booking.app-packageDebugResources-45 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.hotel_booking.app-packageDebugResources-46 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.hotel_booking.app-merged_res-47 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\app\intermediates\merged_res\debug
+com.example.hotel_booking.app-packaged_res-48 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\flutter_credit_card\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-49 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-50 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-51 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\image_picker_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-52 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\location\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-53 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\path_provider_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-54 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-55 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\sqflite_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-56 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\url_launcher_android\intermediates\packaged_res\debug
+com.example.hotel_booking.app-packaged_res-57 E:\KULIAH\SEMESTER 4\PA2\ProyekAkhir2\frontend\build\webview_flutter_android\intermediates\packaged_res\debug
